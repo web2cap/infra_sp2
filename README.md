@@ -3,7 +3,8 @@ The application is packaged in 3 containers:
  - DB: PostgreSQL Database
  - Web: Django RF application, Gunicorn
  - Nginx: Web server and static files
- Includes two volumes:
+
+Includes two volumes:
  - Static
  - Media
 
