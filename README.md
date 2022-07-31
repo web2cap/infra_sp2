@@ -117,6 +117,6 @@ https://github.com/web2cap/api_yamdb
 
 http://127.0.0.1/redoc/
 
-### Avtor:
+### Autor:
 
 * Koshelev Pavel
