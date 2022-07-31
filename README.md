@@ -8,7 +8,7 @@ The application is packaged in 3 containers:
  - Media
 
 ### Files structure
-
+```
 infra_sp2
 ├── api_yamdb/
 │    ├── api/ <-- API App dir
@@ -35,7 +35,7 @@ infra_sp2
 ├── pytest.ini
 ├── README.md
 └── setup.cfg
-
+```
 
 ### Dependencies
 
